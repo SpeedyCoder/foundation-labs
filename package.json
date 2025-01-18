@@ -10,6 +10,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "@next/third-parties": "^15.1.5",
     "@phosphor-icons/react": "^2.1.7",
     "@radix-ui/react-slot": "^1.1.0",
     "@t3-oss/env-nextjs": "^0.10.1",
